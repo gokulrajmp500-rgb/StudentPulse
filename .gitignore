@@ -57,7 +57,6 @@ app.*.map.json
 .vercel
 /.figma/
 /.metadata
-/.gitattributes
 /(2).gitignore
 /CLAUDE.md
 

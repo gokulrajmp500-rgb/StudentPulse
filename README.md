@@ -28,7 +28,7 @@ The repository is scoped to the React web app. The unused Flutter starter templa
 
 ## Run locally
 
-Install [Node.js 22 or later](https://nodejs.org/) and enable Corepack, then install the locked dependencies and run the API tests:
+Install [Git LFS](https://git-lfs.com/) and run `git lfs install` before cloning; the supplied PNG app icons use LFS. Install [Node.js 22 or later](https://nodejs.org/) and enable Corepack, then install the locked dependencies and run the API tests:
 
 ```sh
 corepack pnpm install --frozen-lockfile
