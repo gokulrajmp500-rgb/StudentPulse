@@ -1,0 +1,8 @@
+.metric-detail{display:flex;flex-direction:column;align-items:flex-start;gap:3px}
+.metric-detail small{font-size:9px;white-space:nowrap}
+.metric-detail>strong{font-size:11px}
+.assignment-kpi{min-width:0}
+.assignment-pie{position:relative;display:grid;place-items:center;flex:0 0 42px;width:42px;height:42px;border-radius:50%}
+.assignment-pie::before{position:absolute;inset:5px;border-radius:50%;background:#fff;content:""}
+.assignment-pie>span{position:relative;color:#117e84;font-size:9px;font-weight:800}
+.assignment-kpi>div:last-child{min-width:0}

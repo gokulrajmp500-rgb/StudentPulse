@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 620" fill="none">
+  <defs>
+    <linearGradient id="bookBlue" x1="100" y1="310" x2="380" y2="445" gradientUnits="userSpaceOnUse"><stop stop-color="#2D75F0"/><stop offset="1" stop-color="#0753C8"/></linearGradient>
+    <linearGradient id="bookGreen" x1="380" y1="445" x2="620" y2="290" gradientUnits="userSpaceOnUse"><stop stop-color="#00A77F"/><stop offset="1" stop-color="#3BC99A"/></linearGradient>
+    <linearGradient id="capBlue" x1="275" y1="80" x2="450" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#123B7C"/><stop offset="1" stop-color="#08285D"/></linearGradient>
+    <linearGradient id="pulseGreen" x1="530" y1="210" x2="690" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#1FCB9B"/><stop offset="1" stop-color="#00A77F"/></linearGradient>
+    <linearGradient id="pulseWord" x1="450" y1="470" x2="710" y2="520" gradientUnits="userSpaceOnUse"><stop stop-color="#16BF92"/><stop offset="1" stop-color="#009F80"/></linearGradient>
+  </defs>
+  <path d="M380 400c-64-48-143-81-250-90l21 67c88 11 168 42 229 85v-62Z" fill="url(#bookBlue)"/>
+  <path d="M380 400c64-48 143-81 250-90l-21 67c-88 11-168 42-229 85v-62Z" fill="url(#bookGreen)"/>
+  <path d="M380 373c-56-66-128-111-231-128l9 56c90 17 164 56 222 111v-39Z" fill="#2471E8"/>
+  <path d="M380 373c56-66 128-111 231-128l-9 56c-90 17-164 56-222 111v-39Z" fill="#21B88E"/>
+  <path d="M273 166c47 11 82 48 107 104 25-56 60-93 107-104l-5 48c-42 16-76 60-102 119-26-59-60-103-102-119l-5-48Z" fill="#0A2E67"/>
+  <circle cx="380" cy="226" r="33" fill="#0A2E67"/>
+  <path d="m245 91 135-60 135 60-135 60-135-60Z" fill="url(#capBlue)"/>
+  <path d="m286 111 94 42 94-42v38c-27 10-61 18-94 18s-67-8-94-18v-38Z" fill="#12386F"/>
+  <path d="M515 91v81" stroke="#0B3470" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="515" cy="185" r="15" fill="#124080"/>
+  <path d="m525 218 15-59 19 76 25-54 21 49 17-31h39" stroke="url(#pulseGreen)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="668" cy="249" r="13" fill="#10B990"/>
+  <text x="48" y="523" font-family="Trebuchet MS, Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-4" fill="#0A2E67">Student</text>
+  <text x="365" y="523" font-family="Trebuchet MS, Arial, sans-serif" font-size="88" font-weight="800" letter-spacing="-4" fill="url(#pulseWord)">Pulse</text>
+  <text x="61" y="572" font-family="Trebuchet MS, Arial, sans-serif" font-size="27" font-weight="700" fill="#1E7595">Detect Early. Support Better. Improve Together.</text>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "StudentPulse",
+  "short_name": "StudentPulse",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f8fc",
+  "theme_color": "#102d56",
+  "description": "Student academic support and progress monitoring.",
+  "orientation": "any",
+  "icons": [
+    { "src": "/studentpulse-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/studentpulse-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/studentpulse-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/studentpulse-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
